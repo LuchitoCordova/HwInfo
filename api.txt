@@ -1,0 +1,4 @@
+http://cne.cloudapi.junar.com/api/v2/datastreams/BNE-2013-VARIA-CONSU-BRUTO/data.json/?auth_key=53257e294a0c3a9f6a5bc41172210aef2ec97ddd
+
+53257e294a0c3a9f6a5bc41172210aef2ec97ddd
+http://datos.energiaabierta.cl/developers/
